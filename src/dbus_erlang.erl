@@ -43,7 +43,7 @@
 -import(lists, [map/2, append/1, reverse/1]).
 -define(SERVER, ?MODULE). 
 
--define(NAME, "org.erlang.DBus").
+-define(NAME, "org.erlang.Rvi").
 
 -record(state, { 
 	  name,       %% org.erlang.DBus.<name>
